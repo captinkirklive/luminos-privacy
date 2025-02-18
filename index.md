@@ -1,6 +1,6 @@
 # Luminos Privacy Policy
 
-## Last Updated: [Current Date]
+## Last Updated: 2-18-25
 
 ### Overview
 Luminos is an AI assistant focused on knowledge preservation, space exploration, and ethical medical research advancement. We are committed to protecting your privacy and handling any information with the utmost care.
